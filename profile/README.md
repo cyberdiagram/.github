@@ -1,4 +1,4 @@
-# <img src="YOUR_LOGO_URL" width="40" vertical-align="middle"> CyberDiagram
+# <img src="[YOUR_LOGO_URL](https://avatars.githubusercontent.com/u/342686?s=400&u=cd6579604925f1f8521b0b086bd395bb7ae10200&v=4)" width="40" vertical-align="middle"> CyberDiagram
 
 > **AI-Driven Cloud Penetration Testing & Compliance Platform**
 > Empowering SMEs across Southeast Asia by transforming complex cloud vulnerabilities into clear, actionable, and visualized defense paths.
@@ -27,6 +27,6 @@
 ---
 
 ### 🤝 Connect With Us
-- **Official Website**: [cyberdiagram.io](https://cyberdiagram.io) (Coming Soon)
+- **Official Website**: [cyberdiagram.io](https://cyberdiagram.com) 
 - **Sponsorship**: [Support us on GitHub Sponsors](https://github.com/sponsors/flashoop)
 - **Community**: Contributions are welcome! Check our issues to get started.
