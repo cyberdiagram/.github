@@ -27,6 +27,6 @@
 ---
 
 ### 🤝 Connect With Us
-- **Official Website**: [cyberdiagram.io](https://autoai.ai) 
+- **Official Website**: [autored.ai](https://autoai.ai) 
 - **Sponsorship**: [Support us on GitHub Sponsors](https://github.com/sponsors/flashoop)
 - **Community**: Contributions are welcome! Check our issues to get started.
