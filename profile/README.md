@@ -1,4 +1,4 @@
-# <img src="[YOUR_LOGO_URL]([https://avatars.githubusercontent.com/u/342686?s=400&u=cd6579604925f1f8521b0b086bd395bb7ae10200&v=4](https://avatars.githubusercontent.com/u/250453986?s=400&u=f7dd1b70a861908c566940844fb3f519e8cb7138&v=4))" width="40" vertical-align="middle"> CyberDiagram
+# <img src="[YOUR_LOGO_URL]([https://avatars.githubusercontent.com/u/342686?s=400&u=cd6579604925f1f8521b0b086bd395bb7ae10200&v=4](https://avatars.githubusercontent.com/u/250453986?s=400&u=f7dd1b70a861908c566940844fb3f519e8cb7138&v=4))" width="40" vertical-align="middle"> AutoRed.ai
 
 > **AI-Driven Cloud Penetration Testing & Compliance Platform**
 > Empowering SMEs across Southeast Asia by transforming complex cloud vulnerabilities into clear, actionable, and visualized defense paths.
